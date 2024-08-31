@@ -15,8 +15,8 @@ Root del proyecto
     - data: En esta carpeta se encuentra los datos en formato .csv, en el encontraran dos arhivos, uno con los datos de los estudiantes que presentarón las pruebas en el calendario A del 2020 y otro en el calendario B del 2020
       - Saber_11__2020-1_20240828.csv: Datos de estudiantes Calendrio B
       - Saber_11__2020-2_20240828.csv: Datos de estudiantes Calendario A
-  - Reportes: En esta carpeta se alojan los reportes que han sido generados a partir de los datos, se encuentra un reporte con el estado de los datos frente a nulos y otro generado a partir de pandas_profiler, el cual describe a detalle cada variable asociada a los datos.
-    - estadisticasDescriptivasSaber2020.html: Contiene las estadisticas descriptivas de cada una de las variables del dataframe y un analisis detallado de la información de cada variable.
-    - variable_report.csv: reporte del estado de cada variable con respecto a la cantidad de datos faltantes
+    - Reportes: En esta carpeta se alojan los reportes que han sido generados a partir de los datos, se encuentra un reporte con el estado de los datos frente a nulos y otro generado a partir de pandas_profiler, el cual describe a detalle cada variable asociada a los datos.
+      - estadisticasDescriptivasSaber2020.html: Contiene las estadisticas descriptivas de cada una de las variables del dataframe y un analisis detallado de la información de cada variable.
+      - variable_report.csv: reporte del estado de cada variable con respecto a la cantidad de datos faltantes
 
 
