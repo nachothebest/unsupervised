@@ -9,7 +9,7 @@ Este repositorio incluye todos los archivos y reportes generados durante el desa
 
 ## Estructura
 Root del proyecto 
-  - Primera Entrega : Esta carpeta contiene los archivos que han sido desarrollados para la primera fase/entrega del proyecto
+  - Entrega final : Esta carpeta contiene los archivos que han sido desarrollados para la primera fase/entrega del proyecto
     - Codigo: En esta carpeta se ubican los archivos con el codigo en python que se ha desarrollado para llevar a cabo nuestro analisis.
         - PruebasSaber-DataMining.ipynb: Este archivo contiene el codigo desarrollado para la primera entrega, en el cual se realiza la carga inicial de los     datos, analisis descriptivo y se generar los reportes que permiten analizar cada una de las variables que ofrece la base de datos de estudiantes.
     - data: En esta carpeta se encuentra los datos en formato .csv, en el encontraran dos arhivos, uno con los datos de los estudiantes que presentarón las pruebas en el calendario A del 2020 y otro en el calendario B del 2020
