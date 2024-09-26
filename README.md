@@ -18,6 +18,6 @@ Root del proyecto
     - Reportes: En esta carpeta se alojan los reportes que han sido generados a partir de los datos, se encuentra un reporte con el estado de los datos frente a nulos y otro generado a partir de pandas_profiler, el cual describe a detalle cada variable asociada a los datos.
       - estadisticasDescriptivasSaber2020.html: Contiene las estadisticas descriptivas de cada una de las variables del dataframe y un analisis detallado de la información de cada variable.
       - variable_report.csv: reporte del estado de cada variable con respecto a la cantidad de datos faltantes
-      - El pdf dentro de la carpte "Proyecto final ANS G9.pdf" es el documento final
+      - El pdf dentro de la carpteta "Proyecto final ANS G9.pdf" es el documento final
 
 
